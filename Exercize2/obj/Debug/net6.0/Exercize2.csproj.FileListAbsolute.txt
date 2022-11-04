@@ -1,0 +1,15 @@
+E:\Database\Exercize2\Exercize2\bin\Debug\net6.0\Exercize2.exe
+E:\Database\Exercize2\Exercize2\bin\Debug\net6.0\Exercize2.deps.json
+E:\Database\Exercize2\Exercize2\bin\Debug\net6.0\Exercize2.runtimeconfig.json
+E:\Database\Exercize2\Exercize2\bin\Debug\net6.0\Exercize2.dll
+E:\Database\Exercize2\Exercize2\bin\Debug\net6.0\Exercize2.pdb
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\Exercize2.csproj.AssemblyReference.cache
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\Exercize2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\Exercize2.AssemblyInfoInputs.cache
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\Exercize2.AssemblyInfo.cs
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\Exercize2.csproj.CoreCompileInputs.cache
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\Exercize2.dll
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\refint\Exercize2.dll
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\Exercize2.pdb
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\Exercize2.genruntimeconfig.cache
+E:\Database\Exercize2\Exercize2\obj\Debug\net6.0\ref\Exercize2.dll
